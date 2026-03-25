@@ -1,8 +1,9 @@
 streamlit
 pandas
 numpy
-scikit-learn==1.8.0
+scikit-learn==1.6.1
 shap
 matplotlib
 plotly
 pickle5
+python-3.10
