@@ -1,24 +1,3 @@
-# import streamlit as st
-# import pandas as pd
-# import numpy as np
-# import pickle
-# import matplotlib.pyplot as plt
-
-# st.set_page_config(
-#     page_title="Heart Disease Predictor",
-#     page_icon="❤️",
-#     layout="centered"
-# )
-
-# # Load model and scaler
-# with open('heart_model.pkl', 'rb') as f:
-#     model = pickle.load(f)
-
-# with open('scaler.pkl', 'rb') as f:
-#     scaler = pickle.load(f)
-# st.title("heart desease risk predictor")
-# st.title("Enter patient details below to predict heart disease risk.")
-
 import streamlit as st
 import numpy as np
 import pickle
